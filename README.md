@@ -1,2 +1,2 @@
-# google-clone-g-ncel
+# google-clone-guncel
 güncel google sayfasını klonlamak
